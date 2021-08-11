@@ -18,5 +18,7 @@
 <img src="https://img.shields.io/badge/-JavaScript-000000?logo=javascript">
 <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter">
 <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart">
+
 # Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvdbobr&show_icons=true)
