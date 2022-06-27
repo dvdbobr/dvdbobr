@@ -1,6 +1,6 @@
 # Hi, I'm David <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-raise-hand-gif.gif?raw=true" width="30px" height="30px">
 ### A FULL-STACK DEVELOPER 
-- <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-eyes-gif.gif?raw=true" width="20px"> I’m   currently looking for my next job as a Front-End Developer
+- <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-eyes-gif.gif?raw=true" width="20px" height="20px"> I’m   currently looking for my next job as a Front-End Developer
 - <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-nerd.png?raw=true" width="20px"> I’m currently learning <img style="vertical-align:middle" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" > & <img style="vertical-align:middle" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular">
 
 - 📫 You can contact me via: <a href="https://www.linkedin.com/in/david-bobritsky/"><img style="vertical-align:middle" src="https://img.shields.io/badge/-@David%20Bobritsky-0A66C2?logo=linkedin"></a> or <a href="mailto:dvdbobr@gmail.com"><img style="vertical-align:middle" src="https://img.shields.io/badge/-@dvdbobr-EA4335?logo=gmail&logoColor=white"></a>
