@@ -1,7 +1,7 @@
 # Hi, I'm David <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-raise-hand-gif.gif?raw=true" width="30px" height="30px">
 ### A FULL-STACK DEVELOPER 
 - <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-eyes-gif.gif?raw=true" width="20px" height="20px"> I’m   currently looking for my next job as a Front-End Developer
-- <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-nerd.png?raw=true" width="20px"> I’m currently learning <img style="vertical-align:middle" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" > & <img style="vertical-align:middle" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular">
+- <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-nerd.png?raw=true" width="20px"> I’m currently learning <img style="vertical-align:middle" src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white" >
 
 - 📫 You can contact me via: <a href="https://www.linkedin.com/in/david-bobritsky/"><img style="vertical-align:middle" src="https://img.shields.io/badge/-@David%20Bobritsky-0A66C2?logo=linkedin"></a> or <a href="mailto:dvdbobr@gmail.com"><img style="vertical-align:middle" src="https://img.shields.io/badge/-@dvdbobr-EA4335?logo=gmail&logoColor=white"></a>
 - ⚡ Fun fact:  I  <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-red-heart.png?raw=true" width="20px" height="20px"> <img style="vertical-align:middle" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-gamer.png?raw=true" width="20px" height="20px"> & my dream is to visit <img src="https://icons.iconarchive.com/icons/custom-icon-design/flag/256/Japan-Flag-icon.png" style="vertical-align:middle" width="20px" height="20px"> <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-pikachu.png?raw=true" width="20px" height="20px" style="vertical-align:middle">
@@ -18,3 +18,4 @@
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dvdbobr&show_icons=true) -->
+<!-- ! & <img style="vertical-align:middle" src="https://img.shields.io/badge/-Angular-DD0031?logo=angular">-->
